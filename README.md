@@ -1,3 +1,3 @@
 # Kaggle-Pandas-Course
 
-### This Repo is based on course from https://www.kaggle.com/learn/pandas
+### Еxercises from the course [Pandas](https://www.kaggle.com/learn/pandas)
